@@ -6,10 +6,8 @@
 
 ### 2. Usage
 - This project is deployed with docker, to run it, `cd` into the docker-deploy folder. Then run:
-```
-sudo chmod 777 -R .
-sudo docker-compose up
-```
+  - `sudo chmod 777 -R .`
+  - `sudo docker-compose up`
 - Next, you must configure your web browser to use this proxy. Once set up, you can access web pages through this proxy.
 
 ### 3. Notes
