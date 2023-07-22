@@ -12,4 +12,4 @@
 
 ### 3. Notes
 - The test cases we used are located in `./docker_deploy/testcases.txt`.
-- Corresponding logs are located in `./docker_deploy/logs/proxy.log`
+- Corresponding logs are located in `./docker_deploy/logs/proxy.log`.
