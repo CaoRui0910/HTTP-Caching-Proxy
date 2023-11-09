@@ -10,7 +10,5 @@
   - `sudo chmod 777 -R .`
   - `sudo docker-compose up`
 - Next, you must configure your web browser to use this proxy. Once set up, you can access web pages through this proxy.
-
-### 3. Notes
-- The test cases we used are located in `./docker_deploy/testcases.txt`.
-- Corresponding logs are located in `./docker_deploy/logs/proxy.log`.
+  - [How to test](https://neat-iodine-05e.notion.site/Test-debug-e7b8e523931345498131169bd6095b9a)
+  - The test cases we used are located in `./docker_deploy/testcases.txt`. Corresponding logs are located in `./docker_deploy/logs/proxy.log`.
