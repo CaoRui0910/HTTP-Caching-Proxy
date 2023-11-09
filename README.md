@@ -3,6 +3,7 @@
 ### 1. Project Introduction:
 - Used C++ to implement a HTTP caching proxy server so that users can access different websites through this proxy server.
 - It can handle GET, POST, CONNECT requests and cache responses.
+- [Detailed description](https://github.com/CaoRui0910/HTTP-Caching-Proxy/blob/main/HTTP%20Caching%20Proxy.pdf)
 
 ### 2. Usage
 - This project is deployed with docker, to run it, `cd` into the docker-deploy folder. Then run:
